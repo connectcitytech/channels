@@ -1,11 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RaiItalia" tvg-Name="Rai Italia" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Rai_Italia_-_Logo_2017.svg" group-title= "General",Rai Italia
+#EXTINF:-1 tvg-id="RaiItalia" tvg-Name="Rai Italia" tvg-logo="https://i.imgur.com/LQTNbLX.png" group-title= "General",Rai Italia
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 
 #EXTINF:-1 tvg-id="RaiWorldPremium" tvg-name="Rai World Premium" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Rai_World_Premium_-_Logo_2017.svg" group-title= "General", Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 
-#EXTINF:-1,[7] LA7
-https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="News",Rai News 24 (720p)
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MediasetItalia.it" tvg-logo="https://i.imgur.com/F4gyqhw.png" group-title="General",Mediaset Italia [Geo-blocked]
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+
+#EXTINF:-1 tvg-id="LA7.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="General",LA7 HD
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+
+#EXTINF:-1 tvg-id="LA7d.it" tvg-logo="https://i.imgur.com/sM0A3GD.png" group-title="General",LA7d (720p)
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCinemaItaliano.us@Italy" tvg-logo="https://i.imgur.com/w3lUi4t.png" group-title="Movies",Pluto TV Cinema Italiano Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png" group-title="Religious",TV 2000 (720p)
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTINF:-1 tvg-id="PadrePioTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg" group-title="Religious",Padre Pio TV (1080p)
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepace1.it" tvg-logo="https://i.imgur.com/TpdsPWG.png" group-title="Religious",Telepace 1 (1080p)
+https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepace2.it" tvg-logo="https://i.imgur.com/qvcf6QC.png" group-title="Culture;Religious",Telepace 2 (1080p)
+https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepace3.it" tvg-logo="https://i.imgur.com/hE4i2ft.png" group-title="Education;Religious",Telepace 3 (1080p)
+https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepace4.it" tvg-logo="https://i.imgur.com/JKHEL1H.png" group-title="Religious",Telepace 4 (1080p)
+https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelepaceNews.it" tvg-logo="https://i.imgur.com/kC0c9Q6.png" group-title="News;Religious",Telepace News (720p)
+https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8
