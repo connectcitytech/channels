@@ -15,7 +15,7 @@ https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="https://i.postimg.cc/PJW8jSCD/canale5.png" group-title= "General", Canale5 
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
 
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png" group-title= "General", Italia 1
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png" group-title= "General", Italia 1
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
 
 #EXTINF:-1 tvg-id="LA7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="General",LA7
@@ -24,8 +24,8 @@ https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:-1 tvg-id="La7Cinema.it" tvg-logo="https://i.imgur.com/khPweok.png" group-title="film",La7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 
-#EXTINF:-1 tvg-id="La Sicilia" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/f/fc/Antennasicilia.png" group-title="General" , Antenna Sicilia
-https://kick.com/antennasicilia
+#EXTINF:-1 tvg-id="La Sicilia" tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/f/fc/Antennasicilia.png" group-title="General" , Antenna Sicilia
+https://www.lasiciliaweb.it/live-antennasicilia/ 
 
 #EXTINF:-1 tvg-id="LiraTV.it" tvg-logo="https://static-media.streema.com/media/cache/7e/56/7e56febc3c185845bc4af72fa340352e.jpg" group-title="News",Lira TV (720p) [Not 24/7]
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
@@ -47,6 +47,7 @@ https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda0
 
 #EXTINF:-1 tvg-id="Telepace4.it" tvg-logo="https://i.imgur.com/JKHEL1H.png" group-title="Religious",Telepace 4 (1080p)
 https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+
 
 
 
