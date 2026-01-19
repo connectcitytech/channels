@@ -7,7 +7,7 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 
 #EXTINF:-1 tvg-id="RaiNews24.it@HD" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="News",Rai News 24 HD
-https://www.raiplay.it/dirette/rainews24#
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 
 #EXTINF:-1 tvg-id="RETE 4" tvg-name="RETE 4" tvg-logo="https://i.postimg.cc/CxKkBZmf/rete4.png" group-title= "General",rete4 
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
@@ -25,7 +25,7 @@ https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 
 #EXTINF:-1 tvg-id="La Sicilia" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/f/fc/Antennasicilia.png" group-title="General" , Antenna Sicilia
-https://kick.com/antennasicilia/videos/10d10379-7111-46d4-81ec-84a56b2f3680
+https://kick.com/antennasicilia
 
 #EXTINF:-1 tvg-id="LiraTV.it" tvg-logo="https://static-media.streema.com/media/cache/7e/56/7e56febc3c185845bc4af72fa340352e.jpg" group-title="News",Lira TV (720p) [Not 24/7]
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
@@ -47,6 +47,7 @@ https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda0
 
 #EXTINF:-1 tvg-id="Telepace4.it" tvg-logo="https://i.imgur.com/JKHEL1H.png" group-title="Religious",Telepace 4 (1080p)
 https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+
 
 
 
