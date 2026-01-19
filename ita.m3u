@@ -12,7 +12,7 @@ https://www.raiplay.it/dirette/rainews24#
 #EXTINF:-1 tvg-id="RETE 4" tvg-name="RETE 4" tvg-logo="https://i.postimg.cc/CxKkBZmf/rete4.png" group-title= "General",rete4 
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
 
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Mediaset Italia" tvg-logo="https://i.imgur.com/F4gyqhw.png" group-title= "General", Canale5 
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="https://i.postimg.cc/PJW8jSCD/canale5.png" group-title= "General", Canale5 
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
 
 #EXTINF:-1 tvg-id="LiraTV.it" tvg-logo="https://camo.githubusercontent.com/5cd3bb1fc8eeac7a6ceddbf7ecdbb879d47ce418e99c1b9a110b6c5a1cb78fd2/68747470733a2f2f692e696d6775722e636f6d2f5330526556456f2e706e67" group-title="News",Lira TV (720p) [Not 24/7]
@@ -44,6 +44,7 @@ https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda0
 
 #EXTINF:-1 tvg-id="Telepace4.it" tvg-logo="https://i.imgur.com/JKHEL1H.png" group-title="Religious",Telepace 4 (1080p)
 https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+
 
 
 
