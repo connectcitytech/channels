@@ -24,11 +24,11 @@ https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:-1 tvg-id="La7Cinema.it" tvg-logo="https://i.imgur.com/khPweok.png" group-title="film",La7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 
-#EXTINF:-1 tvg-id="La7d" tvg-logo="https://api.superguidatv.it/v1/channels/254/logo?width=120&theme=dark" group-title="film", La7d
-https://tvit.leicaflorianrobert.dev/la7/la7d/stream.m3u8
+#EXTINF:-1 tvg-id="La 5" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=120&theme=dark" group-title="film", La 5
+https://tvit.leicaflorianrobert.dev/mediaset/la-5/stream.m3u8
 
 #EXTINF:-1 tvg-id="Antenna Sicilia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Antennasicilia.png" group-title="General" , Antenna Sicilia
-https://www.lasiciliaweb.it/live-antennasicilia/ 
+https://www.lasiciliaweb.it/live-antennasicilia
 
 #EXTINF:-1 tvg-id="LiraTV.it" tvg-logo="https://static-media.streema.com/media/cache/7e/56/7e56febc3c185845bc4af72fa340352e.jpg" group-title="News",Lira TV (720p) [Not 24/7]
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
@@ -50,6 +50,7 @@ https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda0
 
 #EXTINF:-1 tvg-id="Telepace4.it" tvg-logo="https://i.imgur.com/JKHEL1H.png" group-title="Religious",Telepace 4 (1080p)
 https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+
 
 
 
