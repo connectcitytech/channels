@@ -16,7 +16,7 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png" group-title= "General", Italia 1
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+https://jmp2.uk/plu-691c5bef3a369d8f40192e71.m3u8
 
 #EXTINF:-1 tvg-id="LA7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="General",LA7
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
@@ -46,7 +46,7 @@ https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 
 #EXTINF:-1 tvg-name="Euronews Italian" tvg-logo="https://i.imgur.com/F3MkfJN.png" tvg-id="EuronewsItalian.fr" group-title="Italy",Euronews Italian
-https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 
 #EXTINF:-1 tvg-id="RaiItaliaSA" tvg-Name="Rai Italia" tvg-logo="https://i.imgur.com/LQTNbLX.png" group-title= "General",Rai Italia SA
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
