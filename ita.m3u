@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RaiItalia" tvg-Name="Rai Italia" tvg-logo="https://i.imgur.com/LQTNbLX.png" group-title= "General",Rai Italia
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
 
 #EXTINF:-1 tvg-id="RaiWorldPremium" tvg-name="Rai World Premium" tvg-logo="https://i.imgur.com/tDuKkh3.png" group-title= "General", Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
@@ -9,23 +9,23 @@ https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it@HD" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="News",Rai News 24 HD
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="S.I. SoloCalcio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Sportitalia_2019_Logo.png" group-title= "sport",S.I. SoloCalcio 
-https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="La7Cinema.it" tvg-logo="https://i.imgur.com/khPweok.png" group-title="film",La7 Cinema
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+
+#EXTINF:-1 tvg-id="La 5" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=120&theme=dark" group-title="film", La 5
+https://tvit.leicaflorianrobert.dev/mediaset/la-5/stream.m3u8
 
 #EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan TV" tvg-logo="https://i.imgur.com/gAMQfUw.png" group-title= "sport", Milan TV 
 https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
 
+#EXTINF:-1 tvg-id="LA7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="General",LA7
+https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
+
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title= "Sport", Inter TV
 https://jmp2.uk/plu-691c5bef3a369d8f40192e71.m3u8
 
-#EXTINF:-1 tvg-id="LA7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="General",LA7
-https://iptv-org.github.io/channels/it/LA7#SD
-
-#EXTINF:-1 tvg-id="La7Cinema.it" tvg-logo="https://i.imgur.com/khPweok.png" group-title="film",La7 Cinema
-https://iptv-org.github.io/channels/it/La7Cinema#HD
-
-#EXTINF:-1 tvg-id="La 5" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=120&theme=dark" group-title="film", La 5
-https://tvit.leicaflorianrobert.dev/mediaset/la-5/stream.m3u8
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="S.I. SoloCalcio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Sportitalia_2019_Logo.png" group-title= "sport",S.I. SoloCalcio 
+https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://i.postimg.cc/3Nyy36hS/sportitalia.png" group-title="Sport" , Sportitalia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
