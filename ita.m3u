@@ -7,7 +7,7 @@ https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 
 #EXTINF:-1 tvg-id="RaiNews24.it@HD" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="News",Rai News 24 HD
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 
 #EXTINF:-1 tvg-id="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="general",Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
@@ -19,7 +19,7 @@ https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 
 #EXTINF:-1 tvg-id="LA7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="General",LA7
-http://la7livehls-lh.akamaized.net/i/livebkup_1@372883/index_1_avb.m3u8
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title= "Sport", Inter TV
 https://jmp2.uk/plu-691c5bef3a369d8f40192e71.m3u8
