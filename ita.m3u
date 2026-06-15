@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RaiItalia" tvg-Name="Rai Italia" tvg-logo="https://i.imgur.com/LQTNbLX.png" group-title= "General",Rai Italia
-https://iptv-org.github.io/channels/it/RaiItalia#Australia
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8
 
 #EXTINF:-1 tvg-id="RaiWorldPremium" tvg-name="Rai World Premium" tvg-logo="https://i.imgur.com/tDuKkh3.png" group-title= "General", Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 
 #EXTINF:-1 tvg-id="RaiNews24.it@HD" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="News",Rai News 24 HD
-https://iptv-org.github.io/channels/it/RaiNews24#SD
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RETE 4" tvg-name="RETE 4" tvg-logo="https://i.postimg.cc/CxKkBZmf/rete4.png" group-title= "General",rete4 
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="S.I. SoloCalcio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Sportitalia_2019_Logo.png" group-title= "sport",S.I. SoloCalcio 
+https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan TV" tvg-logo="https://i.imgur.com/gAMQfUw.png" group-title= "sport", Milan TV 
-https://iptv-org.github.io/channels/it/MilanTV#SD
+https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
 
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title= "Sport", Inter TV
 https://jmp2.uk/plu-691c5bef3a369d8f40192e71.m3u8
