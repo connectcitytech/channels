@@ -9,17 +9,17 @@ https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it@HD" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="News",Rai News 24 HD
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La7Cinema.it" tvg-logo="https://i.imgur.com/khPweok.png" group-title="film",La7 Cinema
+#EXTINF:-1 tvg-id="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="general",Rai 1
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 
-#EXTINF:-1 tvg-id="La 5" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=120&theme=dark" group-title="film", La 5
-https://tvit.leicaflorianrobert.dev/mediaset/la-5/stream.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title="General",Rai 2
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 
-#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan TV" tvg-logo="https://i.imgur.com/gAMQfUw.png" group-title= "sport", Milan TV 
-https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title= "General", Rai 3 
+https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 
 #EXTINF:-1 tvg-id="LA7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="General",LA7
-https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
+http://la7livehls-lh.akamaized.net/i/livebkup_1@372883/index_1_avb.m3u8
 
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title= "Sport", Inter TV
 https://jmp2.uk/plu-691c5bef3a369d8f40192e71.m3u8
@@ -42,8 +42,8 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Pace" tvg-logo="https://i.imgur.com/54oi0cg.png" group-title="Italy",Tele Pace
 https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mediaset.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Mediaset_Italia.png" group-title="General",Mediaset (1080p)
-https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+#EXTINF:-1 tvg-id="La 5" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=120&theme=dark" group-title="film", La 5
+https://tvit.leicaflorianrobert.dev/mediaset/la-5/stream.m3u8
 
 #EXTINF:-1 tvg-name="Euronews Italian" tvg-logo="https://i.imgur.com/F3MkfJN.png" tvg-id="EuronewsItalian.fr" group-title="Italy",Euronews Italian
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
