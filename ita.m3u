@@ -19,7 +19,7 @@ https://live5-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 
 #EXTINF:-1 tvg-id="LA7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="General",LA7
-https://ok.ru/videoembed/2620066111204
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title= "Sport", Inter TV
 https://jmp2.uk/plu-691c5bef3a369d8f40192e71.m3u8
