@@ -2,12 +2,10 @@
 
 #EXTINF:1 tvg-id="rai-1" tvg-name="Rai 1" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/217/logo?width=120&theme=dark" radio="" group-title="rai", Rai 1
 https://tvit.leicaflorianrobert.dev/rai/rai-1/stream.m3u8
-
-#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title="General",Rai 2
-https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
-
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title= "General", Rai 3 
-https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
+#EXTINF:2 tvg-id="rai-2" tvg-name="Rai 2" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/218/logo?width=120&theme=dark" radio="" group-title="rai", Rai 2
+https://tvit.leicaflorianrobert.dev/rai/rai-2/stream.m3u8
+#EXTINF:3 tvg-id="rai-3" tvg-name="Rai 3" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/219/logo?width=120&theme=dark" radio="" group-title="rai", Rai 3
+https://tvit.leicaflorianrobert.dev/rai/rai-3/stream.m3u8
 
 #EXTINF:4 tvg-id="rete-4" tvg-name="Rete 4" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=120&theme=dark" radio="" group-title="mediaset", Rete 4
 https://tvit.leicaflorianrobert.dev/mediaset/rete-4/stream.m3u8
@@ -15,6 +13,7 @@ https://tvit.leicaflorianrobert.dev/mediaset/rete-4/stream.m3u8
 https://tvit.leicaflorianrobert.dev/mediaset/canale-5/stream.m3u8
 #EXTINF:6 tvg-id="italia-1" tvg-name="Italia 1" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=120&theme=dark" radio="" group-title="mediaset", Italia 1
 https://tvit.leicaflorianrobert.dev/mediaset/italia-1/stream.m3u8
+
 #EXTINF:7 tvg-id="la7" tvg-name="La7" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/253/logo?width=120&theme=dark" radio="" group-title="la7", La7
 https://tvit.leicaflorianrobert.dev/la7/la7/stream.m3u8
 
@@ -36,13 +35,13 @@ https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 #EXTINF:-1 tvg-id="PadrePioTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg" group-title="Religious",Padre Pio TV (1080p)
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tele Pace" tvg-logo="https://i.imgur.com/54oi0cg.png" group-title="Italy",Tele Pace
+#EXTINF:-1 tvg-name="Tele Pace" tvg-logo="https://i.imgur.com/54oi0cg.png" group-title="Religious",Tele Pace
 https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La 5" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=120&theme=dark" group-title="film", La 5
 https://tvit.leicaflorianrobert.dev/mediaset/la-5/stream.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Italian" tvg-logo="https://i.imgur.com/F3MkfJN.png" tvg-id="EuronewsItalian.fr" group-title="Italy",Euronews Italian
+#EXTINF:-1 tvg-name="Euronews Italian" tvg-logo="https://i.imgur.com/F3MkfJN.png" tvg-id="EuronewsItalian.fr" group-title="News",Euronews Italian
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 
 #EXTINF:-1 tvg-id="LaCTV.it" tvg-name="La C" tvg-logo="https://i.imgur.com/TF4LKp0.png" group-title= "General", La C 
@@ -57,11 +56,14 @@ https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmCommedia.de" tvg-name="Film Commedia" tvg-logo="https://i.imgur.com/ADNrqKM.png" group-title= "Film", Film Commedia
 https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
 
-#EXTINF:2 tvg-id="rai-2" tvg-name="Rai 2" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/218/logo?width=120&theme=dark" radio="" group-title="rai", Rai 2
-https://tvit.leicaflorianrobert.dev/rai/rai-2/stream.m3u8
+#EXTINF:-1 tvg-id="Rai1.it" tvg-Name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title= "General",Rai 1
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 
-#EXTINF:3 tvg-id="rai-3" tvg-name="Rai 3" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/219/logo?width=120&theme=dark" radio="" group-title="rai", Rai 3
-https://tvit.leicaflorianrobert.dev/rai/rai-3/stream.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title= "General",Rai 2
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title= "General",Rai 3 
+https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
 
 
 
