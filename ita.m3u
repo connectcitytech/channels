@@ -62,9 +62,8 @@ https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmAzione.de" tvg-name="PlutoTVFilmAzione" tvg-logo="https://i.imgur.com/aQ18r9x.png" group-title= "Film",PlutoTVFilmAzione
 https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
 
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title= "General",Rai 3 
-https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
-
+#EXTINF:-1 tvg-id="RaiItalia" tvg-Name="Rai Italia" tvg-logo="https://i.imgur.com/LQTNbLX.png" group-title= "General",Rai Italia
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/19093/index.m3u8
 
 
 
