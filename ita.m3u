@@ -14,8 +14,8 @@ https://tvit.leicaflorianrobert.dev/mediaset/canale-5/stream.m3u8
 #EXTINF:6 tvg-id="italia-1" tvg-name="Italia 1" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=120&theme=dark" radio="" group-title="mediaset", Italia 1
 https://tvit.leicaflorianrobert.dev/mediaset/italia-1/stream.m3u8
 
-#EXTINF:7 tvg-id="la7" tvg-name="La7" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/253/logo?width=120&theme=dark" radio="" group-title="la7", La7
-https://tvit.leicaflorianrobert.dev/la7/la7/stream.m3u8
+#EXTINF:-1 tvg-id="tgcom24" tvg-name="Tgcom24" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/197/logo?width=120&theme=dark" radio="" group-title="mediaset", Tgcom 24
+https://tvit.leicaflorianrobert.dev/mediaset/tgcom24/stream.m3u8
 
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title= "Sport", Inter TV
 https://jmp2.uk/plu-691c5bef3a369d8f40192e71.m3u8
@@ -56,11 +56,11 @@ https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmCommedia.de" tvg-name="Film Commedia" tvg-logo="https://i.imgur.com/ADNrqKM.png" group-title= "Film", Film Commedia
 https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
 
-#EXTINF:-1 tvg-id="Rai1.it" tvg-Name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title= "General",Rai 1
-https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSerie.de" tvg-Name="Pluto TV Serie" tvg-logo="https://i.imgur.com/u3c80e8.png" group-title= "Film",Serie
+https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
 
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title= "General",Rai 2
-https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFilmAzione.de" tvg-name="PlutoTVFilmAzione" tvg-logo="https://i.imgur.com/aQ18r9x.png" group-title= "Film",PlutoTVFilmAzione
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title= "General",Rai 3 
 https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
