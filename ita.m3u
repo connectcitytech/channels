@@ -62,11 +62,14 @@ https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmAzione.de" tvg-name="PlutoTVFilmAzione" tvg-logo="https://i.imgur.com/aQ18r9x.png" group-title= "Film",PlutoTVFilmAzione
 https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
 
-#EXTINF:-1 tvg-id="RaiItalia" tvg-Name="Rai Italia" tvg-logo="https://i.imgur.com/LQTNbLX.png" group-title= "General",Rai Italia
+#EXTINF:-1 tvg-id="RaiItalia" tvg-Name="Rai Italia" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title= "General",Rai Italia
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 
+#EXTINF:-1 tvg-id="RaiWorldPremium" tvg-name="Rai World Premium" tvg-logo="https://i.imgur.com/tDuKkh3.png" group-title= "General", Rai World Premium
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 
-
+#EXTINF:-1 tvg-id="Mediaset.it" tvg-logo="https://i.imgur.com/F4gyqhw.png" group-title="General",Mediaset
+https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 
 
 
