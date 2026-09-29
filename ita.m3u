@@ -17,8 +17,8 @@ https://tvit.leicaflorianrobert.dev/mediaset/italia-1/stream.m3u8
 #EXTINF:-1 tvg-id="tgcom24" tvg-name="Tgcom24" tvg-shift="" tvg-logo="https://api.superguidatv.it/v1/channels/197/logo?width=120&theme=dark" radio="" group-title="mediaset", Tgcom 24
 https://tvit.leicaflorianrobert.dev/mediaset/tgcom24/stream.m3u8
 
-#EXTINF:-1 tvg-id="https://tg24.sky.it/" tvg-name="Sky TG24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sky_TG24_-_Logo_2021.svg/960px-Sky_TG24_-_Logo_2021.svg.png" group-title= "News", Sky TG24
-https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="RaiNews24" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title= "News", RaiNews24
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="S.I. SoloCalcio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Sportitalia_2019_Logo.png" group-title= "sport",S.I. SoloCalcio 
 https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
@@ -35,7 +35,7 @@ https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 #EXTINF:-1 tvg-id="PadrePioTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg" group-title="Religious",Padre Pio TV (1080p)
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tele Pace" tvg-logo="https://i.imgur.com/54oi0cg.png" group-title="Religious",Tele Pace
+#EXTINF:-1 tvg-name="TelePace Trento" tvg-logo="https://www.telepacetrento.it/wp-content/uploads/2020/01/logo_def-02.svg" group-title="Religious",TelePace Trento
 https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La 5" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=120&theme=dark" group-title="film", La 5
