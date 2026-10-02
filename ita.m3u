@@ -20,10 +20,10 @@ https://tvit.leicaflorianrobert.dev/mediaset/tgcom24/stream.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="RaiNews24" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title= "News", RaiNews24
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 
-#EXTINF:-1 tvg-id="Solocalcio.it.it" tvg-name="Sportitalia Solocalcio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Sportitalia_2019_Logo.png" group-title= "sport",S.I. SoloCalcio 
+#EXTINF:-1 tvg-id="SoloCalcio.it" tvg-name="Sportitalia Solocalcio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Sportitalia_2019_Logo.png" group-title= "sport",S.I. SoloCalcio 
 https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="S.I. Sportitalia" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sport" , Sportitalia
+#EXTINF:-1 tvg-id="SportItalia.it" tvg-name="S.I. Sportitalia" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sport" , Sportitalia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="LiraTV.it" tvg-logo="https://static-media.streema.com/media/cache/7e/56/7e56febc3c185845bc4af72fa340352e.jpg" group-title="News",Lira TV (720p) [Not 24/7]
@@ -38,7 +38,7 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TelepaceTrento.it" tvg-name="TelePace Trento" tvg-logo="https://www.telepacetrento.it/wp-content/uploads/2020/01/logo_def-02.svg" group-title="Religious",TelePace Trento
 https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La.5.it" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=120&theme=dark" group-title="film", La 5
+#EXTINF:-1 tvg-id="LA5.it" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=120&theme=dark" group-title="film", La 5
 https://tvit.leicaflorianrobert.dev/mediaset/la-5/stream.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews Italian" tvg-logo="https://i.imgur.com/F3MkfJN.png" group-title="News",Euronews Italian
