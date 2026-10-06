@@ -41,7 +41,7 @@ https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
 #EXTINF:-1 tvg-id="LA5.it" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=120&theme=dark" group-title="film", La 5
 https://tvit.leicaflorianrobert.dev/mediaset/la-5/stream.m3u8
 
-#EXTINF:-1 tvg-name="Antenna Sicilia" tvg-logo="https://i.imgur.com/8DOdqsE.png" tvg-chno="10" tvg-country="IT" group-title="Italy",Antenna Sicilia
+#EXTINF:-1 tvg-id="AntennaSicilia.it" tvg-name="Antenna Sicilia" tvg-logo="https://i.imgur.com/8DOdqsE.png" tvg-country="IT" group-title="Italy",Antenna Sicilia
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 
 #EXTINF:-1 tvg-id="LaCTV.it" tvg-name="La C" tvg-logo="https://i.imgur.com/TF4LKp0.png" group-title= "General", La C 
